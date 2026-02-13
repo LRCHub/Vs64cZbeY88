@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Seven",
+  "base_artist": "정국 (Jung Kook)",
+  "createdAt": "2026-02-13T16:07:08.037155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Seven Bridges Road",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/01_Seven_Bridges_Road_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Seven Bridges Road (Album Version)",
+      "artist": "Ricochet",
+      "has_synced": true,
+      "path": "select/02_Seven_Bridges_Road_(Album_Version)_Ricochet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Seven Bridges Road - Live",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/03_Seven_Bridges_Road_-_Live_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Seven Bridges Road (Live; 2013 Remaster)",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/04_Seven_Bridges_Road_(Live;_2013_Remaster)_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/05_Seven_Spanish_Angels_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels",
+      "artist": "Willie Nelson with Ray Charles",
+      "has_synced": true,
+      "path": "select/06_Seven_Spanish_Angels_Willie_Nelson_with_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Seven Spanish Angels (with Ray Charles)",
+      "artist": "Willie Nelson with Ray Charles",
+      "has_synced": true,
+      "path": "select/07_Seven_Spanish_Angels_(with_Ray_Charles)_Willie_Nelson_with_Ray_Charles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Seven Year Ache",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/08_Seven_Year_Ache_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Seven Year Ache (Album Version)",
+      "artist": "Rosanne Cash",
+      "has_synced": true,
+      "path": "select/09_Seven_Year_Ache_(Album_Version)_Rosanne_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Seven Years",
+      "artist": "Norah Jones",
+      "has_synced": true,
+      "path": "select/10_Seven_Years_Norah_Jones.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Seven Seas of Rhye",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/11_Seven_Seas_of_Rhye_Queen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "May The Force Be With You feat Killer Mike & Mac Miller (Prod by Seven)",
+      "artist": "XV",
+      "has_synced": false,
+      "path": "select/12_May_The_Force_Be_With_You_feat_Killer_Mike_&_Mac_Miller_(Prod_by_Seven)_XV.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Seven Bizzos",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/13_My_Seven_Bizzos_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Seven",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Seven_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Seven (feat. Latto) (Explicit Ver.)",
+      "artist": "Jung Kook, Latto",
+      "has_synced": false,
+      "path": "select/pl_01_Seven_(feat._Latto)_(Explicit_Ver.)_Jung_Kook,_Latto.txt"
+    }
+  ]
+}
